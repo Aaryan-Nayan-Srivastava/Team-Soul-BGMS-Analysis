@@ -20,13 +20,13 @@ The goal is to explore match statistics, trends, and visualizations to gain insi
 ## 📊 Visual Analysis
 
 ### 1. Kills Over Matches – All Players
-![Kills Over Matches - All Players](BGMS-SOUL/Kills%20over%20matcehes-All%20players.png)
+![Kills Over Matches - All Players](Charts/Kills%20over%20matcehes-All%20players.png)
 
 ### 2. Overall Analysis
-![Overall Analysis](BGMS-SOUL/Overall%20Analysis.png)
+![Overall Analysis](Charts/Overall%20Analysis.png)
 
 ### 3. Player Kills Comparison
-![Player Kills Comparison](BGMS-SOUL/Player-killsComparision.png)
+![Player Kills Comparison](Charts/Player-killsComparision.png)
 
 ### 4. Kills Over Matches – Nakul
-![Kills Over Matches - Nakul](BGMS-SOUL/kills%20over%20matches-Nakul.png)
+![Kills Over Matches - Nakul](Charts/kills%20over%20matches-Nakul.png)
